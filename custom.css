@@ -1,0 +1,116 @@
+.fade-in-animation {
+  opacity: 0;
+  overflow: hidden;
+  transform: translateY(40px);
+  transition: opacity 1s ease-in-out, transform 1s ease-in-out;
+}
+
+.fade-in-animation.in-viewport {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+.services .active {
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    --tw-shadow: -4px -4px #8dacbf, -8px -8px #4e738a;
+    --tw-shadow-colored: -4px -4px var(--tw-shadow-color), -8px -8px var(--tw-shadow-color);
+    background-color: rgb(78 115 138 / var(--tw-bg-opacity,1));
+}
+
+.services .active svg {
+    --tw-invert: invert(100%) !important;
+    filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow) !important;
+}
+
+.services .active h4 {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.four-col img {
+    filter: invert(1) brightness(0);
+}
+
+.who-we-are-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+nav a {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px !important;
+}
+
+.four-col, .yellow-color-bg {
+    background: #f8a200;
+}
+
+
+
+.four-col p:nth-child(3) {
+    font-size: 15px !important;
+}
+
+.sectors img {
+    border-radius: 5px !important;
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+article {
+    --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+    --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+form input, form select {
+    height: 55px;
+}
+
+form input, form select, form textarea {
+    padding: 10px 20px !important;
+}
+
+.three-boxes {
+    margin-top: 0px;
+}
+
+
+@media only screen and (max-width:767px){
+    .three-boxes .grid-container .content {
+        height: 400px;
+    }
+    
+    .three-boxes .grid-container .content div {
+        padding-left: 10px !important;
+    }
+    
+    .three-boxes .grid-container .content div p {
+        font-size: 16px;
+        width: 55%;
+    }
+}
+
+
+@media only screen and (max-width:1024px) {
+    nav {
+        position: absolute;
+        background: #4e738a;
+        width: 100%;
+        left: 0;
+        top: 100px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    
+    nav a {
+        display: flex;
+        padding: 10px 20px;
+        margin: 0px !important;
+    }
+}
