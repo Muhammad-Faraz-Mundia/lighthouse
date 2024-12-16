@@ -280,7 +280,7 @@
       </section>
 
       <!-- Testimonials -->
-      <section class="py-16 mb-10 fade-in-animation">
+      <!-- <section class="py-16 mb-10 fade-in-animation">
         <div class="mx-auto w-full max-w-[1200px]">
           <div>
             <div class="mb-[75px] px-5 text-center lg:px-10">
@@ -401,7 +401,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
     </main>
 
 <?php 
