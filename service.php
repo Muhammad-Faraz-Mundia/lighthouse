@@ -6,7 +6,7 @@
       <!-- Hero -->
       <section class="pb-24 pt-48 relative z-0 px-6 lg:px-10 ">
         <div class="max-w-[800px] text-light w-full mx-auto text-center">
-          <nav class="flex justify-center mb-5" aria-label="Breadcrumb">
+          <!-- <nav class="flex justify-center mb-5" aria-label="Breadcrumb">
             <ol role="list" class="flex items-center justify-center space-x-4">
               <li>
                 <div>
@@ -27,10 +27,10 @@
                 </div>
               </li>
             </ol>
-          </nav>
+          </nav> -->
           <h1 class="display-2 md:display-1 mb-8">Our Services</h1>
-          <h3 class="text-xl md:text-2xl mb-6 fade-in-animation">Lorem ipsum dolor sit amet consectetur.</h3>
-          <h6 class="text-lg leading-relaxed font-semibold fade-in-animation">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur sequi omnis vero earum quam quisquam cupiditate accusantium culpa in vitae.</h6>
+          <!-- <h3 class="text-xl md:text-2xl mb-6 fade-in-animation">Lorem ipsum dolor sit amet consectetur.</h3> -->
+          <!-- <h6 class="text-lg leading-relaxed font-semibold fade-in-animation">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur sequi omnis vero earum quam quisquam cupiditate accusantium culpa in vitae.</h6> -->
         </div>
 
         <div class="absolute inset-0 -z-10 pointer-events-none" style="background: linear-gradient(rgba(0, 21, 36, 0.92) 0%, rgba(0, 21, 36, 0.7268) 60.88%, rgba(0, 21, 36, 0.6) 93.05%)"></div>
@@ -139,7 +139,7 @@
 
 
       <!-- Section -->
-      <section class="px-6 lg:px-10 py-16 md:py-20 fade-in-animation yellow-color-bg">
+      <!-- <section class="px-6 lg:px-10 py-16 md:py-20 fade-in-animation yellow-color-bg">
         <div class="max-w-7xl w-full text-white mx-auto">
           <h2 class="text-4xl mb-3 uppercase text-center">Services Designed to Deliver Business Value</h2>
           <p class="text-lg mb-12 leading-loose font-light text-center">Are you charting new territory or facing a known challenge? Our people have successfully tackled nearly every imaginable challenge with clients just like you. From the formation of an idea, to designing the approach, through to delivery of a comprehensive solution, our people can guide you. But it doesn’t stop there - we are steadfastly focused on positive outcomes and will stick with you after a project to measure and prove your success.</p>
@@ -186,10 +186,10 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
-      <!-- Get to know us better -->
-      <section class="pt-16 md:pt-20 pb-20 md:pb-40 px-6 lg:px-10 fade-in-animation sectors">
+      <!-- Lighthouse Consultants Sectors -->
+      <section class="pb-20 px-6 lg:px-10 fade-in-animation sectors">
         <div class="max-w-7xl w-full mx-auto">
           <div class="text-center mb-10">
             <h2 class="text-4xl mb-6">Lighthouse Consultants Sectors</h2>
@@ -282,7 +282,7 @@
       <!--  </div>-->
       <!--</section>-->
 
-      <section class="bg-light px-6 lg:px-10 py-24 text-center fade-in-animation">
+      <!-- <section class="bg-light px-6 lg:px-10 py-24 text-center fade-in-animation">
         <div class="max-w-[860px] w-full mx-auto">
           <h2 class="text-4xl mb-6">We’re Ready to Help</h2>
           <p class="mb-2"><a href="#" class="text-xl text-primary hover:underline">Our 97% client satisfaction rating is more than a metric, it’s who we are.</a></p>
@@ -427,7 +427,7 @@
             </article>
           </div>
         </div>
-      </section>
+      </section> -->
     </main>
 
 <?php 

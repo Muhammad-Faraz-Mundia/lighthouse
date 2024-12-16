@@ -80,6 +80,17 @@ form input, form select, form textarea {
     margin-top: 0px;
 }
 
+.service-list li a {
+    pointer-events: none;
+}
+
+.sectors .grid a {
+    pointer-events: none;
+}
+
+.sectors .grid a svg {
+    display: none;
+}
 
 @media only screen and (max-width:767px){
     .three-boxes .grid-container .content {

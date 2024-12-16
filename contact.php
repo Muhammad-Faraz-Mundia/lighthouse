@@ -6,7 +6,7 @@
       <!-- Hero -->
       <section class="pb-24 pt-48 relative z-0 px-6 lg:px-10 ">
         <div class="max-w-[800px] text-light w-full mx-auto text-center">
-          <nav class="flex justify-center mb-5" aria-label="Breadcrumb">
+          <!-- <nav class="flex justify-center mb-5" aria-label="Breadcrumb">
             <ol role="list" class="flex items-center justify-center space-x-4">
               <li>
                 <div>
@@ -27,7 +27,7 @@
                 </div>
               </li>
             </ol>
-          </nav>
+          </nav> -->
           <h1 class="display-2 md:display-1 mb-8">Contact Us</h1>
           <h6 class="text-lg leading-relaxed font-semibold fade-in-animation">Contact us to discuss your needs or share your feedback. Let's connect!</h6>
         </div>
@@ -43,15 +43,15 @@
           <p class="text-lg text-center text-primary-400 mb-10 fade-in-animation">Please use the form below to request a call or meeting with one of our consulting team members.</p>
 
           <form action="#">
-            <div class="grid sm:grid-cols-2 grid-cols-1 lg:grid-cols-3 gap-x-4 gap-y-9">
+            <div class="grid sm:grid-cols-2 grid-cols-1 lg:grid-cols-2 gap-x-4 gap-y-9">
               <div>
                 <input type="text" class="px-1.5 py-1 block w-full border border-primary font-medium leading-8" placeholder="First Name*" />
               </div>
               <div>
                 <input type="text" class="px-1.5 py-1 block w-full border border-primary font-medium leading-8" placeholder="Last Name*" />
               </div>
-              <div>
-                <input type="text" class="px-1.5 py-1 block w-full border border-primary font-medium leading-8" placeholder="Job Title*" />
+              <div class="sm:col-span-full">
+                <input type="text" class="px-1.5 py-1 block w-full border border-primary font-medium leading-8" placeholder="Company*" />
               </div>
               <div>
                 <input type="email" class="px-1.5 py-1 block w-full border border-primary font-medium leading-8" placeholder="Email*" />
@@ -59,16 +59,8 @@
               <div>
                 <input type="tel" class="px-1.5 py-1 block w-full border border-primary font-medium leading-8" placeholder="Phone*" />
               </div>
-              <div>
-                <select class="px-1.5 py-2 block w-full border border-primary font-medium leading-8">
-                  <option value="" selected disabled>Type of Inquiry*</option>
-                </select>
-              </div>
               <div class="sm:col-span-full">
                 <textarea class="p-1.5 block h-40 w-full border border-primary font-medium leading-8" placeholder="How can we help you?*"></textarea>
-              </div>
-              <div class="sm:col-span-full">
-                <textarea class="p-1.5 block h-40 w-full border border-primary font-medium leading-8" placeholder="How did you hear about us?*"></textarea>
               </div>
             </div>
             <button class="btn-secondary px-16 mx-auto flex mt-10 w-fit" type="submit">Submit</button>
@@ -76,9 +68,9 @@
         </div>
       </section>
 
-      <hr class="max-w-7xl mx-auto" />
+      <!-- <hr class="max-w-7xl mx-auto" /> -->
 
-      <section class="px-6 lg:px-10 py-24 fade-in-animation">
+      <!-- <section class="px-6 lg:px-10 py-24 fade-in-animation">
         <div class="max-w-[1140px] w-full mx-auto">
           <h2 class="text-4xl text-center text-secondary mb-8">Office Locations</h2>
           <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
@@ -123,7 +115,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
     </main>
 
 <?php

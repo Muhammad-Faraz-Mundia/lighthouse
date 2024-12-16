@@ -6,7 +6,7 @@
       <!-- Hero -->
       <section class="pb-24 pt-48 relative z-0 px-6 lg:px-10 fade-in-animation">
         <div class="max-w-[800px] text-light w-full mx-auto text-center">
-          <nav class="flex justify-center mb-5" aria-label="Breadcrumb">
+          <!-- <nav class="flex justify-center mb-5" aria-label="Breadcrumb">
             <ol role="list" class="flex items-center justify-center space-x-4">
               <li>
                 <div>
@@ -27,10 +27,10 @@
                 </div>
               </li>
             </ol>
-          </nav>
+          </nav> -->
           <h1 class="display-2 md:display-1 mb-8 fade-in-animation">About Us</h1>
-          <h3 class="text-xl md:text-2xl mb-6 fade-in-animation">At Lighthouse Consultant, your purpose is our purpose.</h3>
-          <h6 class="text-lg leading-relaxed font-semibold fade-in-animation">We partner with businesses across the life sciences, consumer products, and retail industries to enhance strategic decision-making, improve operational efficiency, implement new technologies, and promote business growth.</h6>
+          <!-- <h3 class="text-xl md:text-2xl mb-6 fade-in-animation">At Lighthouse Consultant, your purpose is our purpose.</h3> -->
+          <!-- <h6 class="text-lg leading-relaxed font-semibold fade-in-animation">We partner with businesses across the life sciences, consumer products, and retail industries to enhance strategic decision-making, improve operational efficiency, implement new technologies, and promote business growth.</h6> -->
         </div>
 
         <div class="absolute inset-0 -z-10 pointer-events-none" style="background: linear-gradient(rgba(0, 21, 36, 0.92) 0%, rgba(0, 21, 36, 0.7268) 60.88%, rgba(0, 21, 36, 0.6) 93.05%)"></div>
@@ -41,33 +41,29 @@
       <section class="py-16 md:py-20 px-6 lg:px-10 fade-in-animation">
         <div class="max-w-[1700px] w-full mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8 lg:px-4">
           <div class="relative self-center z-0 order-last lg:order-none">
-            <div class="max-w-[625px] w-full pl-8 pt-16 pb-20 ml-auto">
-              <img src="https://images.pexels.com/photos/1595385/pexels-photo-1595385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="image" class="w-full object-cover aspect-video" />
-            </div>
-            <img src="https://images.pexels.com/photos/302769/pexels-photo-302769.jpeg?auto=compress&cs=tinysrgb&w=800" alt="building" class="absolute inset-0 pb-8 right-16 -z-10 size-full pr-16 brightness-75" />
-            <div class="ml-[10%] w-[60%] h-8 bg-primary"></div>
+            <img src="https://images.pexels.com/photos/459728/pexels-photo-459728.jpeg?auto=compress&cs=tinysrgb&w=800" alt="about_us" />
           </div>
           <div class="who-we-are-text">
             <h2 class="text-4xl mb-6 fade-in-animation">Who We Are</h2>
             <p class="text-lg leading-loose font-light fade-in-animation">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions. Our team has an extensive experience of over 35 years of experience in the construction industry.  With reliable well experienced professional partners firms we complete our services to include technical, commercial financial and legal advisory services to offer a single point complete tailor-made solution to our client requirements.
             <br>
-During the past the past years we have delivered numerous feasibility studies, claims, financial studies and management consultancy services to our clients.  Earning us a reputation of being reliable ad hoc and efficient.
-</p>
+                During the past the past years we have delivered numerous feasibility studies, claims, financial studies and management consultancy services to our clients.  Earning us a reputation of being reliable ad hoc and efficient.
+              </p>
           </div>
         </div>
       </section>
 
       <!-- Our Vision -->
-      <section class="bg-light px-6 lg:px-10 py-24 text-center yellow-color-bg">
+      <!-- <section class="bg-light px-6 lg:px-10 py-24 text-center yellow-color-bg">
         <div class="max-w-[860px] w-full mx-auto">
           <h2 class="text-4xl mb-6 fade-in-animation">Our Vision</h2>
           <p class="text-lg leading-loose font-light fade-in-animation">We aim to be the most effective and highly sought-after integrator of business solutions for our core clients, promoting business growth and market diversification, while providing a rewarding and stimulating environment for our stewards.</p>
         </div>
-      </section>
+      </section> -->
 
 
       <!-- Why Us -->
-      <section class="py-16 md:py-20 fade-in-animation">
+      <!-- <section class="py-16 md:py-20 fade-in-animation">
         <div class="text-center px-6 lg:px-10">
           <h2 class="text-4xl mb-6">Why Us</h2>
           <p class="text-lg leading-loose font-light">At Lighthouse Consultants, we make our clients’ purpose our purpose.</p>
@@ -106,10 +102,10 @@ During the past the past years we have delivered numerous feasibility studies, c
             <img src="https://images.pexels.com/photos/1650904/pexels-photo-1650904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="building" class="absolute opacity-0 invisible group-hover:visible group-hover:opacity-100 transition-all size-full inset-0 object-cover pointer-events-none -z-10 brightness-50" />
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!-- Get to know us better -->
-      <section class="pt-16 md:pt-20 pb-20 md:pb-40 px-6 lg:px-10 fade-in-animation">
+      <!-- <section class="pt-16 md:pt-20 pb-20 md:pb-40 px-6 lg:px-10 fade-in-animation">
         <div class="max-w-7xl w-full mx-auto">
           <div class="text-center mb-10">
             <h2 class="text-4xl mb-6">Get to know us better</h2>
@@ -178,7 +174,7 @@ During the past the past years we have delivered numerous feasibility studies, c
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <!--<section class="relative mx-5 z-0 rounded fade-in-animation" style="background-image: url('https://marvel-b1-cdn.bc0a.com/f00000000145319/clarkstonconsulting.com/wp-content/uploads/2023/07/alliances-1920x600.png')">-->
       <!--  <div class="py-16 px-8 max-w-[650px] text-center mx-auto text-white">-->
@@ -188,7 +184,7 @@ During the past the past years we have delivered numerous feasibility studies, c
       <!--  </div>-->
       <!--</section>-->
 
-      <section class="my-20 px-6 lg:px-10 fade-in-animation">
+      <!-- <section class="my-20 px-6 lg:px-10 fade-in-animation">
         <div class="max-w-7xl w-full mx-auto">
           <h2 class="text-4xl mb-3 uppercase text-center">Our Latest Insights</h2>
           <p class="text-lg leading-loose font-light text-center">Lorem ipsum dolor sit amet.</p>
@@ -279,7 +275,7 @@ During the past the past years we have delivered numerous feasibility studies, c
             </article>
           </div>
         </div>
-      </section>
+      </section> -->
 
      
     </main>
