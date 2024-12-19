@@ -38,7 +38,7 @@
               <h4 class="mb-3.5 text-2xl font-bold text-dark"><a href="contact.php">Contact Us</a></h4>
               <div class="space-y-3.5">
                 <p class="mb-3.5 text-lg leading-[110%] text-dark">Doha, Qatar</p>
-                <a class="text-lg text-dark hover:underline" href="tel:(012) 012-0120">(012) 012-0120</a>
+                <!-- <a class="text-lg text-dark hover:underline" href="tel:(012) 012-0120">(012) 012-0120</a> -->
               </div>
             </div>
           </div>

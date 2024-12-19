@@ -21,7 +21,7 @@
           <img src="assets/images/lighthouse-logo.svg" alt="" />
         </a>
 
-        <nav class="hidden items-center space-x-6 flex-1 justify-center lg:flex">
+        <nav class="hidden items-center space-x-6 flex-1 lg:flex end-flex">
           <a class="text-lg hover:text-secondary-500 text-white" href="index.php">Home</a>
           <a class="text-lg hover:text-secondary-500 text-white" href="about.php">About</a>
           <a class="text-lg hover:text-secondary-500 text-white" href="service.php">Services</a>
@@ -29,7 +29,7 @@
           <a class="text-lg hover:text-secondary-500 text-white" href="contact.php">Contact</a>
         </nav>
 
-        <ul class="hidden lg:flex items-center gap-2">
+        <!-- <ul class="hidden lg:flex items-center gap-2">
           <li>
             <a href="#" class="size-8 rounded bg-white text-black hover:text-[#1877F2] flex items-center justify-center transition-all hover:shadow-[2px_4px_#1877F2,-2px_4px_#1877F2]">
               <svg class="size-5 fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
@@ -51,7 +51,7 @@
               </svg>
             </a>
           </li>
-        </ul>
+        </ul> -->
 
         <div class="-my-2 -mr-2 lg:hidden">
           <button class="inline-flex items-center justify-center rounded-md p-2 text-white hover:text-gray-500 hamburger-menu">

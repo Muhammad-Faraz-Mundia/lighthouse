@@ -29,7 +29,7 @@
             </ol>
           </nav> -->
           <h1 class="display-2 md:display-1 mb-8">Contact Us</h1>
-          <h6 class="text-lg leading-relaxed font-semibold fade-in-animation">Contact us to discuss your needs or share your feedback. Let's connect!</h6>
+          <h6 class="text-lg leading-relaxed font-semibold">Contact us to discuss your needs or share your feedback. Let's connect!</h6>
         </div>
 
         <div class="absolute inset-0 -z-10 pointer-events-none" style="background: linear-gradient(rgba(0, 21, 36, 0.92) 0%, rgba(0, 21, 36, 0.7268) 60.88%, rgba(0, 21, 36, 0.6) 93.05%)"></div>
@@ -37,10 +37,10 @@
       </section>
 
       <!-- Contact Form -->
-      <section class="px-6 lg:px-10 py-24 fade-in-animation ">
+      <section class="px-6 lg:px-10 py-24 ">
         <div class="max-w-[1140px] w-full mx-auto lg:px-4">
-          <h2 class="text-4xl text-center text-secondary mb-4 fade-in-animation">Thank you for your interest in Lighthouse Consultant Partners.</h2>
-          <p class="text-lg text-center text-primary-400 mb-10 fade-in-animation">Please use the form below to request a call or meeting with one of our consulting team members.</p>
+          <h2 class="text-4xl text-center text-secondary mb-4 ">Thank you for your interest in Lighthouse Consultant Partners.</h2>
+          <p class="text-lg text-center text-primary-400 mb-10">Please use the form below to request a call or meeting with one of our consulting team members.</p>
 
           <form action="#">
             <div class="grid sm:grid-cols-2 grid-cols-1 lg:grid-cols-2 gap-x-4 gap-y-9">

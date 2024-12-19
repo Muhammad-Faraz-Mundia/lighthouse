@@ -4,7 +4,7 @@
 
     <main>
       <!-- Hero -->
-      <section class="pb-24 pt-48 relative z-0 px-6 lg:px-10 fade-in-animation">
+      <section class="pb-24 pt-48 relative z-0 px-6 lg:px-10">
         <div class="max-w-[800px] text-light w-full mx-auto text-center">
           <!-- <nav class="flex justify-center mb-5" aria-label="Breadcrumb">
             <ol role="list" class="flex items-center justify-center space-x-4">
@@ -28,7 +28,7 @@
               </li>
             </ol>
           </nav> -->
-          <h1 class="display-2 md:display-1 mb-8 fade-in-animation">About Us</h1>
+          <h1 class="display-2 md:display-1 mb-8">About Us</h1>
           <!-- <h3 class="text-xl md:text-2xl mb-6 fade-in-animation">At Lighthouse Consultant, your purpose is our purpose.</h3> -->
           <!-- <h6 class="text-lg leading-relaxed font-semibold fade-in-animation">We partner with businesses across the life sciences, consumer products, and retail industries to enhance strategic decision-making, improve operational efficiency, implement new technologies, and promote business growth.</h6> -->
         </div>
@@ -38,14 +38,14 @@
       </section>
 
       <!-- Who We are -->
-      <section class="py-16 md:py-20 px-6 lg:px-10 fade-in-animation">
+      <section class="py-16 md:py-20 px-6 lg:px-10">
         <div class="max-w-[1700px] w-full mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8 lg:px-4">
           <div class="relative self-center z-0 order-last lg:order-none">
             <img src="https://images.pexels.com/photos/459728/pexels-photo-459728.jpeg?auto=compress&cs=tinysrgb&w=800" alt="about_us" />
           </div>
           <div class="who-we-are-text">
-            <h2 class="text-4xl mb-6 fade-in-animation">Who We Are</h2>
-            <p class="text-lg leading-loose font-light fade-in-animation">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions. Our team has an extensive experience of over 35 years of experience in the construction industry.  With reliable well experienced professional partners firms we complete our services to include technical, commercial financial and legal advisory services to offer a single point complete tailor-made solution to our client requirements.
+            <h2 class="text-4xl mb-6 ">Who We Are</h2>
+            <p class="text-lg leading-loose font-light">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions. Our team has an extensive experience of over 35 years of experience in the construction industry.  With reliable well experienced professional partners firms we complete our services to include technical, commercial financial and legal advisory services to offer a single point complete tailor-made solution to our client requirements.
             <br>
                 During the past the past years we have delivered numerous feasibility studies, claims, financial studies and management consultancy services to our clients.  Earning us a reputation of being reliable ad hoc and efficient.
               </p>

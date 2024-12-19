@@ -6,8 +6,8 @@
       <section class="relative z-0 pt-28 overflow-hidden flex flex-col min-h-svh ">
         <div class="mx-auto max-w-screen-xl flex-1 flex w-full flex-col justify-center px-6 py-8 md:py-16 lg:py-24">
           <div class="w-full max-w-[850px]">
-            <h1 class="display-2 sm:display-1 mb-5 capitalize text-white fade-in-animation">Lighthouse to make an impact on client with awefull services</h1>
-            <p class="mb-9 max-w-[709px] text-lg !leading-normal text-white sm:text-2xl fade-in-animation">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions. </p>
+            <h1 class="display-2 sm:display-1 mb-5 capitalize text-white">Lighthouse to make an impact on client with awefull services</h1>
+            <p class="mb-9 max-w-[709px] text-lg !leading-normal text-white sm:text-2xl">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions. </p>
             <!-- <div class="flex flex-col items-center gap-4 sm:flex-row fade-in-animation">
               <a class="btn-secondary w-full border border-secondary-500 px-12 py-3.5 text-2xl leading-normal hover:border-yellow-500 sm:w-fit sm:py-5" href="https://mundiatech.xyz/lighthouse/contact.php">Contact Us</a
               >

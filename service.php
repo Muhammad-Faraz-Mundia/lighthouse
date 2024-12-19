@@ -38,10 +38,10 @@
       </section>
 
       <!-- Why Us -->
-     <section class="my-10 py-10 px-6 lg:px-10 fade-in-animation">
+     <section class="my-10 py-10 px-6 lg:px-10 ">
         <div class="container max-w-7xl mx-auto">
-          <h2 class="text-4xl font-extrabold mb-6">Our Services</h2>
-          <p class="text-lg lg:text-2xl mb-5 leading-relaxed">We provide a wide range of bespoke services according to the client requirements and the project in hand.  The main areas of focus are .</p>
+          <!-- <h2 class="text-4xl font-extrabold mb-6">Our Services</h2> -->
+          <p class="text-lg lg:text-2xl mb-5 leading-relaxed font-updated">We provide a wide range of bespoke services according to the client requirements and the project in hand.  The main areas of focus are .</p>
           <hr class="border-t-primary-200" />
 
           <div class="max-w-7xl mx-auto w-full grid my-16 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 services fade-in-animation">
