@@ -41,7 +41,7 @@
      <section class="my-10 py-10 px-6 lg:px-10 ">
         <div class="container max-w-7xl mx-auto">
           <!-- <h2 class="text-4xl font-extrabold mb-6">Our Services</h2> -->
-          <p class="text-lg lg:text-2xl mb-5 leading-relaxed font-updated">We provide a wide range of bespoke services according to the client requirements and the project in hand.  The main areas of focus are .</p>
+          <p class="text-lg lg:text-2xl mb-5 leading-relaxed font-updated">We provide a wide range of bespoke services according to the client requirements and the project in hand. The main areas of focus are:</p>
           <hr class="border-t-primary-200" />
 
           <div class="max-w-7xl mx-auto w-full grid my-16 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 services fade-in-animation">
@@ -192,8 +192,8 @@
       <section class="pb-20 px-6 lg:px-10 fade-in-animation sectors">
         <div class="max-w-7xl w-full mx-auto">
           <div class="text-center mb-10">
-            <h2 class="text-4xl mb-6">Lighthouse Consultants Sectors</h2>
-            <p class="text-lg leading-loose font-light">Our consultants leverage decades of industry experience to deliver solutions that work for your business and your people, no matter the challenge. We offer a broad set of customized solutions for businesses of all types, and our consultants have deep industry expertise - particularly across the life sciences, consumer products, and retail industries.</p>
+            <h2 class="text-4xl mb-6">Sector Focus</h2>
+            <p class="text-lg leading-loose font-light">Our consultants leverage decades of industry experience to deliver solutions that work for your business and your people, no matter the challenge. We provide tailored strategies across diverse sectors, helping organizations overcome obstacles and achieve their goals.</p>
           </div>
 
           <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-8 gap-y-12">

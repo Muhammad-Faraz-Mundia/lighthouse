@@ -37,7 +37,7 @@
             <div>
               <h4 class="mb-3.5 text-2xl font-bold text-dark"><a href="contact.php">Contact Us</a></h4>
               <div class="space-y-3.5">
-                <p class="mb-3.5 text-lg leading-[110%] text-dark">Doha, Qatar</p>
+                <!-- <p class="mb-3.5 text-lg leading-[110%] text-dark">Doha, Qatar</p> -->
                 <!-- <a class="text-lg text-dark hover:underline" href="tel:(012) 012-0120">(012) 012-0120</a> -->
               </div>
             </div>
@@ -75,7 +75,7 @@
               </a>
             </li>
           </ul> -->
-          <p class="mx-auto flex w-full max-w-[280px] flex-wrap justify-center gap-x-2 text-center text-base text-dark/40 md:mx-0 md:block md:w-auto md:max-w-none md:text-left"><span class="order-last block w-full md:order-none md:inline md:w-auto">© 2024 Copyright LightHouse - All Rights Reserved</span> </p>
+          <p class="mx-auto flex w-full max-w-[280px] flex-wrap justify-center gap-x-2 text-center text-base text-dark/40 md:mx-0 md:block md:w-auto md:max-w-none md:text-left"><span class="order-last block w-full md:order-none md:inline md:w-auto">© 2024 Copyright Lighthouse Consultants FZE - All Rights Reserved</span> </p>
         </div>
       </div>
     </footer>

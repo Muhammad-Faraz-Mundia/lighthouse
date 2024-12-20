@@ -39,7 +39,7 @@
       <!-- Contact Form -->
       <section class="px-6 lg:px-10 py-24 ">
         <div class="max-w-[1140px] w-full mx-auto lg:px-4">
-          <h2 class="text-4xl text-center text-secondary mb-4 ">Thank you for your interest in Lighthouse Consultant Partners.</h2>
+          <h2 class="text-4xl text-center text-secondary mb-4 ">Thank you for your interest.</h2>
           <p class="text-lg text-center text-primary-400 mb-10">Please use the form below to request a call or meeting with one of our consulting team members.</p>
 
           <form action="#">

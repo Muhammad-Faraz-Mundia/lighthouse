@@ -45,9 +45,11 @@
           </div>
           <div class="who-we-are-text">
             <h2 class="text-4xl mb-6 ">Who We Are</h2>
-            <p class="text-lg leading-loose font-light">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions. Our team has an extensive experience of over 35 years of experience in the construction industry.  With reliable well experienced professional partners firms we complete our services to include technical, commercial financial and legal advisory services to offer a single point complete tailor-made solution to our client requirements.
+            <p class="text-lg leading-loose font-light">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and West African Regions. Our team has an extensive experience of over 35 years of experience in the construction industry. With reliable, well experienced professional partner firms we complete our services to include technical, commercial financial and legal advisory services to offer a single point complete tailor-made solution to our client requirements.
+
             <br>
-                During the past the past years we have delivered numerous feasibility studies, claims, financial studies and management consultancy services to our clients.  Earning us a reputation of being reliable ad hoc and efficient.
+
+            During the past the past years we have delivered numerous feasibility studies, claims, financial studies and management consultancy services to our clients. Earning us a reputation of being reliable ad hoc and efficient.
               </p>
           </div>
         </div>

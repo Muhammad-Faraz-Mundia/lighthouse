@@ -6,8 +6,8 @@
       <section class="relative z-0 pt-28 overflow-hidden flex flex-col min-h-svh ">
         <div class="mx-auto max-w-screen-xl flex-1 flex w-full flex-col justify-center px-6 py-8 md:py-16 lg:py-24">
           <div class="w-full max-w-[850px]">
-            <h1 class="display-2 sm:display-1 mb-5 capitalize text-white">Lighthouse to make an impact on client with awefull services</h1>
-            <p class="mb-9 max-w-[709px] text-lg !leading-normal text-white sm:text-2xl">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions. </p>
+            <h1 class="display-2 sm:display-1 mb-5 capitalize text-white">Delivering Excellence, Empowered With Vision</h1>
+            <p class="mb-9 max-w-[709px] text-lg !leading-normal text-white sm:text-2xl">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and West African Regions. </p>
             <!-- <div class="flex flex-col items-center gap-4 sm:flex-row fade-in-animation">
               <a class="btn-secondary w-full border border-secondary-500 px-12 py-3.5 text-2xl leading-normal hover:border-yellow-500 sm:w-fit sm:py-5" href="https://mundiatech.xyz/lighthouse/contact.php">Contact Us</a
               >
@@ -43,7 +43,7 @@
         <div class="pointer-events-none absolute inset-0 -z-10 block h-full w-full bg-[#001524]/[.75] lg:hidden"></div>
       </section>
 
-      <section class="px-6 py-10 bg-light lg:px-10 fade-in-animation four-col">
+      <!-- <section class="px-6 py-10 bg-light lg:px-10 fade-in-animation four-col">
         <div class="mx-auto w-full max-w-[1200px]">
           <div class="mx-auto grid w-full grid-cols-2 gap-14 px-6 sm:mx-0 sm:w-auto sm:max-w-none sm:grid-cols-2 sm:gap-8 lg:grid-cols-4">
             <div class="text-center">
@@ -68,7 +68,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <section class="py-24 relative xl:mr-0 lg:mr-5 mr-0 fade-in-animation">
         <div class="w-full max-w-7xl px-5 lg:px-10 mx-auto">
@@ -79,8 +79,7 @@
                   <div class="w-full flex-col justify-start lg:items-start items-center gap-3 flex">
                     <h2 class="heading-1 mb-3 text-gray-900 fade-in-animation">Our Mission</h2>
                     <p class="text-gray-500 text-base font-normal leading-relaxed lg:text-start text-center fade-in-animation">
-                      Our achievement story is a testament to teamwork and perseverance. Together, we've overcome challenges, celebrated victories, and created a narrative of progress and success. <br /><br />Our achievement story is a testament to teamwork and perseverance. Together, we've overcome challenges, celebrated victories, and created a narrative of progress and success. Our achievement story is a testament to teamwork and perseverance. Together, we've overcome challenges, celebrated victories, and created a narrative of progress and success. <br /><br />
-                      Our achievement story is a testament to teamwork and perseverance. Together, we've overcome challenges, celebrated victories, and created a narrative of progress and success.
+                    Our mission is to empower organizations to achieve their full potential by providing tailored solutions, strategic insights, and unmatched expertise. We strive to build lasting partnerships, foster innovation, and deliver measurable results that drive sustainable growth and success.
                     </p>
                   </div>
                 </div>
