@@ -34,7 +34,7 @@
                 <li><a class="text-lg leading-normal text-dark hover:underline" href="#">Claims & Disputes </a></li>
               </ul>
             </div>
-            <div>
+            <div class="col-3-contact">
               <h4 class="mb-3.5 text-2xl font-bold text-dark"><a href="contact.php">Contact Us</a></h4>
               <div class="space-y-3.5">
                 <!-- <p class="mb-3.5 text-lg leading-[110%] text-dark">Doha, Qatar</p> -->
