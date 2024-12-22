@@ -40,7 +40,8 @@
       <section class="px-6 lg:px-10 py-24 ">
         <div class="max-w-[1140px] w-full mx-auto lg:px-4">
           <h2 class="text-4xl text-center text-secondary mb-4 ">Thank you for your interest.</h2>
-          <p class="text-lg text-center text-primary-400 mb-10">Please use the form below to request a call or meeting with one of our consulting team members.</p>
+          <p class="text-lg text-center text-primary-400 mb-10">Please use the form below to request a call or meeting with a member of our team.
+          </p>
 
           <form action="#">
             <div class="grid sm:grid-cols-2 grid-cols-1 lg:grid-cols-2 gap-x-4 gap-y-9">
