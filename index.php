@@ -103,7 +103,7 @@
               <img src="assets/images/pexels-michalrobak-29472820.jpg" alt="image" class="size-full object-cover group-hover:scale-[1.15] transition-all duration-300" style="backface-visibility: hidden" />
               <div class=" absolute flex flex-col px-[12%] bg-[rgba(40,40,40,.6)] group-hover:bg-[rgba(40,40,40,.2)] transition-all justify-center text-white inset-0 size-full z-10">
                 <h4 class="text-[46px] font-bold mb-4 group-hover:drop-shadow-2xl">About Us</h4>
-                <p class="text-xl">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions.</p>
+                <!-- <p class="text-xl">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions.</p> -->
               </div>
             </a>
           </div>
@@ -112,7 +112,7 @@
               <img src="assets/images/pexels-umaraffan499-87236.jpg" alt="image" class="size-full object-cover group-hover:scale-[1.15] transition-all duration-300" style="backface-visibility: hidden" />
               <div class="absolute flex flex-col px-[12%] bg-[rgba(40,40,40,.6)] group-hover:bg-[rgba(40,40,40,.2)] transition-all justify-center text-white inset-0 size-full z-10">
                 <h4 class="text-[46px] font-bold mb-4 group-hover:drop-shadow-2xl">Our Services</h4>
-                <p class="text-xl">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions.</p>
+                <!-- <p class="text-xl">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions.</p> -->
               </div>
             </a>
           </div>
@@ -121,7 +121,7 @@
               <img src="assets/images/pexels-sevenstormphotography-439416.jpg" alt="image" class="size-full object-cover group-hover:scale-[1.15] transition-all duration-300" style="backface-visibility: hidden" />
               <div class="absolute flex flex-col px-[12%] bg-[rgba(40,40,40,.6)] group-hover:bg-[rgba(40,40,40,.2)] transition-all justify-center text-white inset-0 size-full z-10">
                 <h4 class="text-[46px] font-bold mb-4 group-hover:drop-shadow-2xl">Contact Us</h4>
-                <p class="text-xl">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions.</p>
+                <!-- <p class="text-xl">Established in 2008 as an independent support consultant to assist international and multinational firms who are active in the MENA and west African Regions.</p> -->
               </div>
             </a>
           </div>
