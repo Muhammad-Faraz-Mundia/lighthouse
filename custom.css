@@ -102,10 +102,10 @@ form input, form select, form textarea {
     text-align: center;
 }
 
-.col-3-contact {
+/* .col-3-contact {
     position: relative;
     left: -15%;
-}
+} */
 
 @media only screen and (max-width:767px){
     .three-boxes .grid-container .content {
@@ -126,6 +126,22 @@ form input, form select, form textarea {
         line-height: 32px;
         text-align: center;
     }
+
+    .fot-first-column {
+        margin-bottom: 0px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .footer-columns .col {
+        margin-top: 30px;
+    }
+    
+    .footer-columns .col.col-1 {
+        margin-top: 0px;
+    }
 }
 
 
@@ -144,5 +160,25 @@ form input, form select, form textarea {
         display: flex;
         padding: 10px 20px;
         margin: 0px !important;
+    }
+    
+  
+}
+
+@media only screen and (min-width:991px) {
+    .footer-columns .col-3 {
+        width: 40%;
+    }
+    
+    .footer-columns .col-2 {
+        width: 40%;
+    }
+    
+    .footer-columns .col-1 {
+        width: 20%;
+    }
+    
+    .footer-columns {
+        max-width: 900px;
     }
 }

@@ -6,14 +6,14 @@
       
         <div class="mx-auto flex max-w-2xl flex-col justify-between gap-12 text-center md:text-left lg:mx-0 lg:max-w-none lg:flex-row">
 
-        <div class="mb-24 flex flex-col justify-between gap-14 md:flex-row md:gap-10 lg:mb-0">
+        <div class="mb-24 flex flex-col justify-between gap-14 md:flex-row md:gap-10 lg:mb-0 fot-first-column">
           <a class="block w-40 md:w-[200px]" href="/">
             <img src="assets/images/lighthouse-logo.svg" alt="" />
           </a>
         </div>
          
-        <div class="flex w-full flex-col justify-between gap-24 md:flex-row md:gap-12 lg:max-w-screen-sm">
-            <div>
+        <div class="flex w-full flex-col justify-between md:flex-row footer-columns">
+            <div class="col col-1">
               <h4 class="mb-3.5 text-2xl font-bold text-dark">Quick Links</h4>
               <ul class="space-y-3.5">
                 <li><a class="text-lg leading-normal text-dark hover:underline" href="index.php">Home</a></li>
@@ -22,7 +22,7 @@
                 <li><a class="text-lg leading-normal text-dark hover:underline" href="contact.php">Contact</a></li>
               </ul>
             </div>
-            <div>
+            <div class="col col-2">
               <h4 class="mb-3.5 text-2xl font-bold text-dark"><a href="service.php"> Services </a></h4>
               <ul class="space-y-3.5 service-list">
                 <li><a class="text-lg leading-normal text-dark hover:underline" href="#">Feasibility studies</a></li>
@@ -34,11 +34,18 @@
                 <li><a class="text-lg leading-normal text-dark hover:underline" href="#">Claims & Disputes </a></li>
               </ul>
             </div>
-            <div class="col-3-contact">
+            <div class="col col-3 col-3-contact">
               <h4 class="mb-3.5 text-2xl font-bold text-dark"><a href="contact.php">Contact Us</a></h4>
               <div class="space-y-3.5">
-                <!-- <p class="mb-3.5 text-lg leading-[110%] text-dark">Doha, Qatar</p> -->
-                <!-- <a class="text-lg text-dark hover:underline" href="tel:(012) 012-0120">(012) 012-0120</a> -->
+                <p class="mb-3.5 text-lg leading-[110%] text-dark">
+                  Compass Building, <br>
+                  Al Shohada Road, <br>
+                  AL Hamra Industrial Zone-FZ,  <br>
+                  Ras Al Khaimah, United Arab Emirates <br>
+                  PO Box: 10559
+                </p>
+                <a class="text-lg text-dark hover:underline" href="mailto:info@lighthousefze.com">info@lighthousefze.com</a>
+                
               </div>
             </div>
           </div>
